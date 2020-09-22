@@ -13,5 +13,11 @@ git commit -m "Facebook Full Clone"
 
 (now create new repository after logging into github and follow the rest of instructions there)
 
-git remote add origin https://github.com/Hamzazaheer721/Facebook_full_Clone.git
+git remote add origin https://github.com/Hamzazaheer721/Facebook_Complete_Clone.git
 git push -u origin master
+
+
+(in case if you make any changes after pushing it on github)
+git add .
+git commit -m "Alert changes have been made"
+git push
