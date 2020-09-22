@@ -15,3 +15,15 @@ git commit -m "Facebook Full Clone"
 
 git remote add origin https://github.com/Hamzazaheer721/Facebook_Complete_Clone.git
 git push -u origin master
+
+
+(in case if you make any changes after pushing it on github)
+git add .
+git commit -m "Alert changes have been made"
+git push
+
+(in case you have added a folder after pushing the project on github)
+git pull
+git add .
+git commit -m "Alert changes have been made"
+git push
