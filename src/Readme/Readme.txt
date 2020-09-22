@@ -1,3 +1,15 @@
+Facebook clone allows you to login via Google account using Firebase. 
+This application will make use of 
+1) Fireebase Authentification Usage
+2) React Context API
+3) Facebook CSS design
+4) Material UI library
+5) Firebase Realtime databse
+6) Hosting website with Firebase deployment
+
+
+You will able to upload your status and image/ gif with caption.
+
 npm install @material-ui/core
 npm install @material-ui/icons
 npm i firebase
